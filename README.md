@@ -1,2 +1,3 @@
 # itc134-bio
-Repo to write biographical information
+A repo to place potential biographical information.
+
